@@ -1,0 +1,601 @@
+,Reseña,Sentimiento
+0,"Excelente producto, muy recomendado.",Positivo
+1,"Pésima calidad, se rompió enseguida.",Negativo
+2,Me encantó la calidad.,Positivo
+3,No funciona como dice la descripción.,Negativo
+4,El envío fue muy rápido.,Positivo
+5,El envío tardó una eternidad.,Negativo
+6,Funciona de maravilla.,Positivo
+7,Muy caro para lo que realmente es.,Negativo
+8,Superó mis expectativas.,Positivo
+9,"No lo recomiendo, es una estafa.",Negativo
+10,"Gran compra, lo volvería a adquirir.",Positivo
+11,El servicio al cliente es horrible.,Negativo
+12,Es justo lo que buscaba.,Positivo
+13,Llegó defectuoso y sucio.,Negativo
+14,Muy fácil de instalar y usar.,Positivo
+15,Es muy difícil de configurar.,Negativo
+16,La atención fue espectacular.,Positivo
+17,Me arrepiento de haberlo comprado.,Negativo
+18,Calidad premium a un precio justo.,Positivo
+19,Faltaban piezas en la caja.,Negativo
+20,Muy contento con el resultado.,Positivo
+21,No es compatible con nada.,Negativo
+22,Increíble diseño y color.,Positivo
+23,El material se siente muy barato.,Negativo
+24,Llegó en perfectas condiciones.,Positivo
+25,Hice la devolución y sigo esperando.,Negativo
+26,Es muy resistente y duradero.,Positivo
+27,Se sobrecalienta a los 5 minutos.,Negativo
+28,La mejor opción del mercado.,Positivo
+29,La aplicación falla constantemente.,Negativo
+30,El diseño es elegante y moderno.,Positivo
+31,Las instrucciones son confusas.,Negativo
+32,Cumple con todo lo prometido.,Positivo
+33,El empaque llegó abierto.,Negativo
+34,"Una joya, vale cada centavo.",Positivo
+35,No tiene potencia suficiente.,Negativo
+36,Es muy ligero y portátil.,Positivo
+37,El color no es el de la foto.,Negativo
+38,Soporte técnico de primera.,Positivo
+39,Hace un ruido muy molesto.,Negativo
+40,Super práctico para el día a día.,Positivo
+41,Se siente muy frágil.,Negativo
+42,Superó mis pruebas de rendimiento.,Positivo
+43,Gasta mucha batería.,Negativo
+44,Ideal para regalar.,Positivo
+45,El tamaño es demasiado pequeño.,Negativo
+46,La pantalla tiene una nitidez increíble.,Positivo
+47,No incluye el cargador.,Negativo
+48,Recomiendo comprarlo sin dudar.,Positivo
+49,Se desconecta del WiFi seguido.,Negativo
+50,"El acabado es impecable, se nota la calidad.",Positivo
+51,"Se rompió al primer uso, una basura.",Negativo
+52,La batería dura muchísimo más de lo que esperaba.,Positivo
+53,El software es lento y se traba a cada rato.,Negativo
+54,Totalmente recomendado para uso profesional.,Positivo
+55,"Me siento estafado, no es el modelo original.",Negativo
+56,"Es muy silencioso, ni se siente que está prendido.",Positivo
+57,"El manual solo viene en chino, imposible entenderlo.",Negativo
+58,Relación calidad-precio inmejorable.,Positivo
+59,Huele mucho a plástico quemado al encenderlo.,Negativo
+60,La caja llegó sellada y todo en orden.,Positivo
+61,Demasiado caro para los materiales que usa.,Negativo
+62,"Me salvó el día, es muy funcional.",Positivo
+63,El color se empezó a caer a la semana.,Negativo
+64,"Es muy intuitivo, no hace falta leer el manual.",Positivo
+65,El soporte es inestable y se tambalea.,Negativo
+66,Una experiencia de compra 10/10.,Positivo
+67,No trae los cables que dice en la descripción.,Negativo
+68,El sonido es nítido y potente.,Positivo
+69,Se calienta tanto que quema al tocarlo.,Negativo
+70,"Ligero, estético y muy potente.",Positivo
+71,La conexión Bluetooth es muy inestable.,Negativo
+72,Lo volvería a comprar mil veces.,Positivo
+73,Es una imitación barata del producto real.,Negativo
+74,Los materiales son robustos y premium.,Positivo
+75,La pantalla tiene píxeles muertos.,Negativo
+76,El tamaño es perfecto para espacios pequeños.,Positivo
+77,Es una tortura intentar armar esto.,Negativo
+78,La entrega fue en menos de 24 horas.,Positivo
+79,Falla el sensor de movimiento constantemente.,Negativo
+80,Ideal para quienes buscan eficiencia.,Positivo
+81,El pegamento que trae es de muy mala calidad.,Negativo
+82,Superó por mucho a la competencia.,Positivo
+83,Las fotos del anuncio son engañosas.,Negativo
+84,Un producto de alta gama a buen precio.,Positivo
+85,No tiene fuerza para lo que necesito.,Negativo
+86,"Muy ergonómico, cómodo para usar horas.",Positivo
+87,El botón de encendido se quedó trabado.,Negativo
+88,Realmente cumple lo que promete el anuncio.,Positivo
+89,"El envío fue un desastre, lo perdieron dos veces.",Negativo
+90,"Muy versátil, sirve para muchas tareas.",Positivo
+91,Hace un pitido agudo insoportable.,Negativo
+92,El empaque es ecológico y muy seguro.,Positivo
+93,Me enviaron un color que no pedí.,Negativo
+94,La cámara toma fotos espectaculares.,Positivo
+95,La batería se descarga sola aunque no se use.,Negativo
+96,"Es el regalo perfecto, quedé muy bien.",Positivo
+97,Las costuras se están deshilachando.,Negativo
+98,Excelente integración con otros dispositivos.,Positivo
+99,"No vale la pena el gasto, hay mejores opciones.",Negativo
+100,"Una maravilla tecnológica, muy fluido.",Positivo
+101,El servicio técnico nunca contestó mis correos.,Negativo
+102,Los colores son vibrantes y fieles a la realidad.,Positivo
+103,Se siente como plástico barato y reciclado.,Negativo
+104,"Ahorra mucha energía, se nota en la factura.",Positivo
+105,Es un laberinto tratar de navegar por el menú.,Negativo
+106,"Muy robusto, aguantó una caída sin problemas.",Positivo
+107,La batería no llega ni a las dos horas de uso.,Negativo
+108,El teclado es suave y muy silencioso al escribir.,Positivo
+109,El sistema operativo se reinicia solo.,Negativo
+110,Superó a marcas mucho más caras.,Positivo
+111,Vino con un olor a humedad muy fuerte.,Negativo
+112,La suela tiene un agarre increíble en mojado.,Positivo
+113,"El cable es cortísimo, no llega al enchufe.",Negativo
+114,Se sincroniza al instante con el teléfono.,Positivo
+115,"Es una decepción total, no gasten su dinero.",Negativo
+116,"El empaque es de lujo, ideal para un regalo.",Positivo
+117,"Las piezas no encajan, hay que forzarlas.",Negativo
+118,La tela es fresca y muy cómoda para el verano.,Positivo
+119,Se traba cuando abres más de dos pestañas.,Negativo
+120,"Un 10 rotundo, nada que criticar.",Positivo
+121,El brillo de la pantalla es insuficiente al sol.,Negativo
+122,Trae muchos accesorios útiles de regalo.,Positivo
+123,El sonido se distorsiona si subes el volumen.,Negativo
+124,"Es muy liviano, perfecto para viajar.",Positivo
+125,La caja llegó toda golpeada y abierta.,Negativo
+126,El motor es potente pero no hace ruido.,Positivo
+127,La pintura se raya con solo mirarla.,Negativo
+128,Muy satisfecho con la rapidez del envío.,Positivo
+129,El conector baila y hace falso contacto.,Negativo
+130,Es la solución definitiva a mis problemas.,Positivo
+131,"Se ve muy anticuado, parece de hace diez años.",Negativo
+132,La interfaz es limpia y sin publicidad molesta.,Positivo
+133,El ventilador suena como un avión despegando.,Negativo
+134,Las instrucciones en español son perfectas.,Positivo
+135,Tarda una eternidad en cargar la batería.,Negativo
+136,"Muy ergonómico, se adapta bien a la mano.",Positivo
+137,Me enviaron un artículo usado en vez de nuevo.,Negativo
+138,"Es muy resistente al agua, comprobado.",Positivo
+139,"No tiene estabilidad, se cae con el viento.",Negativo
+140,La calidad del audio en llamadas es cristalina.,Positivo
+141,El sensor de huellas falla 8 de cada 10 veces.,Negativo
+142,Lo recomiendo a todos mis amigos y familiares.,Positivo
+143,La madera es aglomerado de baja calidad.,Negativo
+144,El zoom de la cámara es impresionante.,Positivo
+145,Deja manchas de grasa por todos lados.,Negativo
+146,Muy fácil de limpiar y mantener como nuevo.,Positivo
+147,La cremallera se atasca constantemente.,Negativo
+148,El servicio postventa fue muy amable.,Positivo
+149,"No es para nada lo que esperaba, muy decepcionado.",Negativo
+150,La batería dura todo el día con uso intenso.,Positivo
+151,Se apaga de la nada y pierde la configuración.,Negativo
+152,El acabado en aluminio lo hace ver muy elegante.,Positivo
+153,El plástico se raya con solo pasarle un trapo.,Negativo
+154,Es mucho más potente de lo que dicen los videos.,Positivo
+155,"Una estafa, el paquete llegó vacío.",Negativo
+156,Los bajos del altavoz son profundos y claros.,Positivo
+157,"La conexión es inestable, se cae cada 5 minutos.",Negativo
+158,"Muy liviano, ideal para llevar en la mochila.",Positivo
+159,El ventilador hace un ruido metálico espantoso.,Negativo
+160,Superó mis expectativas por el precio que pagué.,Positivo
+161,"No trae el manual en español, solo en alemán.",Negativo
+162,El sensor táctil responde al instante.,Positivo
+163,"Los materiales se sienten de juguete, muy endebles.",Negativo
+164,"El envío fue rapidísimo, llegó al día siguiente.",Positivo
+165,El soporte técnico me colgó el teléfono.,Negativo
+166,"Es muy versátil, lo uso para todo en la casa.",Positivo
+167,Se calienta tanto que huele a quemado.,Negativo
+168,La imagen es nítida incluso con poca luz.,Positivo
+169,"No es compatible con iPhone, aunque decía que sí.",Negativo
+170,"Muy satisfecho, es el tercero que compro.",Positivo
+171,La caja estaba toda mojada y el producto también.,Negativo
+172,Es la mejor inversión que he hecho este año.,Positivo
+173,El botón de volumen se hundió al segundo día.,Negativo
+174,La aplicación es muy fluida y no ocupa espacio.,Positivo
+175,Me mandaron un modelo viejo en vez del nuevo.,Negativo
+176,El agarre es firme y muy cómodo.,Positivo
+177,Las piezas de repuesto son imposibles de hallar.,Negativo
+178,Los colores son exactamente como en las fotos.,Positivo
+179,El cristal se astilló sin haberlo golpeado.,Negativo
+180,"Realmente silencioso, puedo dormir con él cerca.",Positivo
+181,El cable se peló a la semana de uso.,Negativo
+182,"Un producto de diez, lo recomiendo totalmente.",Positivo
+183,La interfaz es confusa y está llena de errores.,Negativo
+184,El diseño es minimalista y queda bien donde sea.,Positivo
+185,Es una pérdida de tiempo intentar configurarlo.,Negativo
+186,La tela no encoge después de los lavados.,Positivo
+187,El cierre es de plástico malo y se traba.,Negativo
+188,Muy potente para el tamaño tan pequeño que tiene.,Positivo
+189,El servicio de entrega lo dejó en la calle.,Negativo
+190,Los accesorios que incluye son de gran utilidad.,Positivo
+191,Se nota que es un producto reacondicionado.,Negativo
+192,El brillo es perfecto para leer en exteriores.,Positivo
+193,No tiene potencia para aspirar ni un pelo.,Negativo
+194,Llegó perfectamente embalado y protegido.,Positivo
+195,La goma se despega con el calor del sol.,Negativo
+196,"Es muy intuitivo, mi abuelo aprendió a usarlo solo.",Positivo
+197,"El wifi no tiene alcance, a 3 metros se corta.",Negativo
+198,"Una joya tecnológica, vale lo que cuesta.",Positivo
+199,Me arrepiento totalmente de esta compra.,Negativo
+200,"La respuesta táctil es inmediata, sin lag.",Positivo
+201,Se traba al intentar abrir archivos pesados.,Negativo
+202,El empaque es premium y protege muy bien.,Positivo
+203,El plástico cruje cada vez que lo tocas.,Negativo
+204,La calidad del micrófono es profesional.,Positivo
+205,El cable se calienta peligrosamente.,Negativo
+206,"Es muy estético, queda bien en el escritorio.",Positivo
+207,La batería se infló a los dos meses de uso.,Negativo
+208,El envío llegó dos días antes de lo previsto.,Positivo
+209,No reconoce la tarjeta de memoria nunca.,Negativo
+210,"Muy ligero, ni se nota que lo llevas puesto.",Positivo
+211,Las patas de goma se despegaron rápido.,Negativo
+212,Es la mejor compra que he hecho en Amazon.,Positivo
+213,La aplicación pide demasiados permisos.,Negativo
+214,El brillo de la pantalla es excelente al sol.,Positivo
+215,El sonido es metálico y sin nada de bajos.,Negativo
+216,Trae una funda de regalo muy resistente.,Positivo
+217,El manual de instrucciones es una fotocopia borrosa.,Negativo
+218,La conexión Bluetooth es sólida y estable.,Positivo
+219,Se desconecta del Wi-Fi de forma aleatoria.,Negativo
+220,El servicio al cliente resolvió mi duda rápido.,Positivo
+221,Es una imitación muy mala del original.,Negativo
+222,Muy ergonómico para largas jornadas de uso.,Positivo
+223,El color es mucho más oscuro que en la web.,Negativo
+224,Una inversión que vale cada centavo.,Positivo
+225,Se raya con solo pasarle una uña.,Negativo
+226,El motor es potente y muy eficiente.,Positivo
+227,El software viene lleno de programas basura.,Negativo
+228,La cámara enfoca rapidísimo en cualquier luz.,Positivo
+229,El soporte es de plástico muy endeble.,Negativo
+230,Cumple perfectamente con su función.,Positivo
+231,Los botones están demasiado duros.,Negativo
+232,"Llegó con un 80% de carga, listo para usar.",Positivo
+233,El sensor de proximidad falla bastante.,Negativo
+234,Es muy versátil para diferentes tareas.,Positivo
+235,"El envío fue un desastre, la caja venía rota.",Negativo
+236,La relación calidad-precio es insuperable.,Positivo
+237,El pegamento se sale por los bordes.,Negativo
+238,"Es muy silencioso, ideal para la noche.",Positivo
+239,No trae el adaptador de corriente incluido.,Negativo
+240,La tela es suave y no genera estática.,Positivo
+241,Huele a químicos muy fuertes al abrirlo.,Negativo
+242,Muy satisfecho con la durabilidad hasta ahora.,Positivo
+243,El cristal se empaña por dentro.,Negativo
+244,"Los materiales son de alta gama, acero real.",Positivo
+245,"La base se tambalea mucho, es inestable.",Negativo
+246,El menú es muy intuitivo y fácil de navegar.,Positivo
+247,Las actualizaciones de software lo arruinaron.,Negativo
+248,Un 10/10 en diseño y funcionalidad.,Positivo
+249,Me decepcionó la calidad de los acabados.,Negativo
+250,El soporte técnico respondió en menos de una hora.,Positivo
+251,La aplicación se cierra sola al intentar guardar.,Negativo
+252,Los materiales son de acero inoxidable real.,Positivo
+253,"Se siente muy frágil, como si se fuera a quebrar.",Negativo
+254,La duración de la batería es simplemente brutal.,Positivo
+255,"El envío fue un desastre, llegó con un mes de retraso.",Negativo
+256,"Es muy intuitivo, no hace falta leer las instrucciones.",Positivo
+257,"Las piezas de plástico huelen muy mal, a tóxico.",Negativo
+258,La relación calidad-precio es la mejor del mercado.,Positivo
+259,No es para nada lo que muestran en el anuncio.,Negativo
+260,El diseño es minimalista y muy elegante.,Positivo
+261,Se calienta tanto que es imposible tenerlo en la mano.,Negativo
+262,El sonido es envolvente y con bajos potentes.,Positivo
+263,"El manual de usuario es incomprensible, mala traducción.",Negativo
+264,"Muy ligero, ideal para llevarlo en cualquier bolso.",Positivo
+265,Los botones se sienten sueltos y de mala calidad.,Negativo
+266,Llegó perfectamente embalado y con sellos originales.,Positivo
+267,No reconoce el cable de carga original.,Negativo
+268,"Superó mis expectativas por mucho, una maravilla.",Positivo
+269,El servicio de postventa es grosero y no ayuda.,Negativo
+270,La pantalla tiene una resolución y brillo increíbles.,Positivo
+271,Se raya con solo pasarle una gamuza suave.,Negativo
+272,Es el complemento perfecto para mi oficina.,Positivo
+273,La conexión inalámbrica es muy inestable.,Negativo
+274,"Muy resistente a los golpes, ya se me cayó una vez.",Positivo
+275,Faltaban tornillos esenciales para el montaje.,Negativo
+276,El software es muy fluido y fácil de configurar.,Positivo
+277,La cámara frontal toma fotos muy borrosas.,Negativo
+278,"Me encanta el color, es exactamente como la foto.",Positivo
+279,Se queda congelado si abres más de tres apps.,Negativo
+280,"La caja de presentación es de lujo, muy bonita.",Positivo
+281,"El cable es ridículamente corto, no llega a la mesa.",Negativo
+282,"Es una inversión segura, no te vas a arrepentir.",Positivo
+283,Me mandaron un producto usado y con rayones.,Negativo
+284,La suela tiene un agarre fantástico en seco y mojado.,Positivo
+285,El brillo mínimo de la pantalla sigue siendo muy alto.,Negativo
+286,"Muy versátil, sirve para mil cosas diferentes.",Positivo
+287,El pegamento de los bordes se está saliendo.,Negativo
+288,"Es muy silencioso, perfecto para usar de noche.",Positivo
+289,El wifi pierde señal a los dos metros de distancia.,Negativo
+290,El tacto del material es suave y premium.,Positivo
+291,"No incluye las pilas, aunque la caja dice que sí.",Negativo
+292,"Muy satisfecho con la compra, llegó muy rápido.",Positivo
+293,El sensor de huellas funciona cuando quiere.,Negativo
+294,Es muy potente para el tamaño tan compacto que tiene.,Positivo
+295,El ventilador suena como una turbina de avión.,Negativo
+296,La integración con la nube es inmediata y fácil.,Positivo
+297,Los acabados son toscos y mal terminados.,Negativo
+298,"Un producto redondo, lo volvería a comprar mañana.",Positivo
+299,"Una pérdida de dinero, hay opciones mejores y baratas.",Negativo
+300,El diseño ergonómico reduce mucho el cansancio.,Positivo
+301,Se siente como un juguete de plástico barato.,Negativo
+302,La batería carga de 0 a 100 en media hora.,Positivo
+303,"El software es una pesadilla, lleno de errores.",Negativo
+304,"Es muy robusto, se nota que durará años.",Positivo
+305,"El envío fue nefasto, la caja venía aplastada.",Negativo
+306,La pantalla tiene unos colores muy naturales.,Positivo
+307,El ventilador no deja de hacer un chirrido.,Negativo
+308,"Superó mis expectativas iniciales, gran calidad.",Positivo
+309,No tiene la potencia que prometen los videos.,Negativo
+310,Muy ligero y cómodo para usar todo el día.,Positivo
+311,Se calienta tanto que huele a electrónica quemada.,Negativo
+312,La caja venía con un precinto de seguridad extra.,Positivo
+313,El soporte técnico me ignoró por dos semanas.,Negativo
+314,Es el mejor periférico que he tenido nunca.,Positivo
+315,Las teclas se borraron con solo un mes de uso.,Negativo
+316,El manual está muy bien explicado y con dibujos.,Positivo
+317,El brillo automático de la pantalla no funciona.,Negativo
+318,"Es muy silencioso, ni te enteras de que está ahí.",Positivo
+319,Los materiales se sienten pegajosos al tacto.,Negativo
+320,La cámara enfoca perfectamente en movimiento.,Positivo
+321,El cable es tan rígido que es difícil de acomodar.,Negativo
+322,Una relación calidad-precio imbatible hoy en día.,Positivo
+323,Faltaban dos gomas de la base en el paquete.,Negativo
+324,La conexión es estable incluso a través de paredes.,Positivo
+325,El sonido se corta cada vez que muevo el conector.,Negativo
+326,"Muy versátil, lo uso tanto en casa como en el trabajo.",Positivo
+327,El pegamento de la estructura se está soltando.,Negativo
+328,El empaque es ecológico y muy fácil de abrir.,Positivo
+329,La batería se descarga un 20% durante la noche.,Negativo
+330,"Los acabados son de metal pulido, muy premium.",Positivo
+331,El sensor de movimiento se activa sin motivo.,Negativo
+332,"Es muy intuitivo, configurado en dos minutos.",Positivo
+333,La caja llegó abierta y sin el manual.,Negativo
+334,"Una maravilla, diseño y potencia en uno solo.",Positivo
+335,Se raya con solo pasarle una servilleta de papel.,Negativo
+336,Muy satisfecho con la rapidez de la entrega.,Positivo
+337,El bluetooth da interferencias con otros equipos.,Negativo
+338,La resolución de la pantalla es simplemente brutal.,Positivo
+339,Es una copia china de muy baja fidelidad.,Negativo
+340,Los accesorios incluidos son de muy buena calidad.,Positivo
+341,El software ocupa demasiado espacio en memoria.,Negativo
+342,El agarre es antideslizante y muy seguro.,Positivo
+343,Se rompió la pestaña de cierre al primer intento.,Negativo
+344,"Un 10 rotundo, no le encuentro ningún fallo.",Positivo
+345,La pintura se está descascarando en las esquinas.,Negativo
+346,"El audio es cristalino, sin ruidos de fondo.",Positivo
+347,"No es compatible con versiones anteriores, ojo.",Negativo
+348,Muy recomendable para quien busque eficiencia.,Positivo
+349,"Me siento decepcionado, esperaba algo mucho mejor.",Negativo
+350,"Es una maravilla, funciona de diez.",Positivo
+351,"Es una porquería, no sirve para nada.",Negativo
+352,Lo mejor que compré en mi vida.,Positivo
+353,"Es una cagada total, se rompió al toque.",Negativo
+354,"El envío fue un rayo, muy conforme.",Positivo
+355,"Una basura, me estafaron con el precio.",Negativo
+356,"La calidad es impecable, muy fino todo.",Positivo
+357,"Es un clavo, no lo compren por nada.",Negativo
+358,Funciona perfecto y es muy facha.,Positivo
+359,"Me llegó algo usado, son unos chantas.",Negativo
+360,El soporte me atendió re bien y rápido.,Positivo
+361,"El plástico es re trucho, se dobla todo.",Negativo
+362,"Una masa el equipo, tiene mucha potencia.",Positivo
+363,"No anda ni para atrás, plata tirada.",Negativo
+364,"Superó mis expectativas, muy pro el acabado.",Positivo
+365,"El motor hace un ruido espantoso, malísimo.",Negativo
+366,"Es justo lo que quería, diez puntos.",Positivo
+367,"La batería no dura un suspiro, malísima.",Negativo
+368,"Re fácil de usar, hasta un nene puede.",Positivo
+369,El cable es una miseria de corto.,Negativo
+370,"El audio es una locura, suena re fuerte.",Positivo
+371,"Se tilda todo el tiempo, es insufrible.",Negativo
+372,Estéticamente es hermoso y funcional.,Positivo
+373,"Me mandaron cualquier cosa, un desastre.",Negativo
+374,La caja vino impecable y con moño.,Positivo
+375,"La pantalla se ve re borrosa, un asco.",Negativo
+376,"Es un 10 de 10, compren tranquilos.",Positivo
+377,"Se calienta como una estufa, peligroso.",Negativo
+378,"El material es acero del bueno, pesado.",Positivo
+379,"El cierre es una debilidad, se traba siempre.",Negativo
+380,Muy práctico para llevar a todos lados.,Positivo
+381,"No tiene fuerza de nada, decepción total.",Negativo
+382,El color es igualito al de la foto.,Positivo
+383,"Vino fallado de fábrica, una bronca.",Negativo
+384,La entrega fue super prolija.,Positivo
+385,"El wifi es un chiste, no conecta nunca.",Negativo
+386,"Me encantó, vale cada peso que pagué.",Positivo
+387,El software es re pesado y lento.,Negativo
+388,"Es una joyita, muy bien terminado.",Positivo
+389,"Las teclas están re duras, imposible escribir.",Negativo
+390,"Aguanta de todo, es re guerrero.",Positivo
+391,"Se descascara la pintura, calidad de cuarta.",Negativo
+392,Muy buena atención post venta.,Positivo
+393,"Es una pérdida de tiempo, no lo compren.",Negativo
+394,"El brillo es potente, se ve re bien.",Positivo
+395,"Me vino incompleto, faltan los tornillos.",Negativo
+396,Super recomendable por el precio.,Positivo
+397,"La aplicación es una mugre, no abre.",Negativo
+398,El diseño es moderno y muy liviano.,Positivo
+399,"Es una porquería atómica, no compren.",Negativo
+400,"El diseño es ergonómico, se adapta muy bien a la mano.",Positivo
+401,Se siente como plástico reciclado de mala calidad.,Negativo
+402,La batería dura más de 48 horas con uso moderado.,Positivo
+403,El software es lento y se cierra inesperadamente.,Negativo
+404,Los materiales son de acero inoxidable de alta calidad.,Positivo
+405,"El envío fue un desastre, la caja venía mojada.",Negativo
+406,La pantalla tiene una nitidez y colores increíbles.,Positivo
+407,El ventilador hace un ruido metálico muy molesto.,Negativo
+408,Superó mis expectativas por el precio que pagué.,Positivo
+409,No tiene la potencia que prometen en la publicidad.,Negativo
+410,"Muy ligero, perfecto para llevar en la mochila siempre.",Positivo
+411,Se calienta excesivamente tras diez minutos de uso.,Negativo
+412,El empaque es elegante y protege muy bien el interior.,Positivo
+413,El soporte técnico nunca respondió mis llamadas.,Negativo
+414,Es el mejor gadget que he comprado este año.,Positivo
+415,Las letras de las teclas se borran con el uso diario.,Negativo
+416,El manual está muy bien detallado y en varios idiomas.,Positivo
+417,El brillo de la pantalla es insuficiente bajo el sol.,Negativo
+418,"Es totalmente silencioso, no se escucha nada.",Positivo
+419,Los materiales se sienten pegajosos y huelen mal.,Negativo
+420,La cámara enfoca rapidísimo incluso de noche.,Positivo
+421,El cable es tan rígido que se termina pelando.,Negativo
+422,Una relación calidad-precio imbatible en el mercado.,Positivo
+423,Faltaban accesorios que estaban listados en la caja.,Negativo
+424,La conexión es estable a pesar de la distancia.,Positivo
+425,El audio se distorsiona al subir un poco el volumen.,Negativo
+426,"Muy versátil, sirve tanto para ocio como para trabajo.",Positivo
+427,El pegamento de la base se despegó a la semana.,Negativo
+428,El empaque es minimalista y fácil de reciclar.,Positivo
+429,La batería pierde carga sola cuando está apagado.,Negativo
+430,"Los acabados son premium, metal pulido y suave.",Positivo
+431,El sensor de movimiento es demasiado sensible.,Negativo
+432,"Es muy intuitivo, lo configuré en un minuto.",Positivo
+433,La caja llegó abierta y el producto con polvo.,Negativo
+434,"Una maravilla tecnológica, fluidez absoluta.",Positivo
+435,El acabado en pintura se raya con mucha facilidad.,Negativo
+436,Muy satisfecho con la velocidad del envío.,Positivo
+437,El bluetooth causa interferencias con mi ratón.,Negativo
+438,La resolución de pantalla es simplemente espectacular.,Positivo
+439,"Es una imitación barata, no es el original.",Negativo
+440,Los extras que vienen de regalo son muy útiles.,Positivo
+441,El software ocupa casi todo el espacio disponible.,Negativo
+442,El agarre es ergonómico y evita que se resbale.,Positivo
+443,Se rompió una de las piezas al intentar armarlo.,Negativo
+444,"Un producto de diez puntos, sin ninguna queja.",Positivo
+445,La pintura se está cayendo a trozos en los bordes.,Negativo
+446,"El audio es nítido y balanceado, un placer oírlo.",Positivo
+447,"No es compatible con Mac, aunque decía que sí.",Negativo
+448,Altamente recomendable por su eficiencia y diseño.,Positivo
+449,"Me siento estafado, la calidad es paupérrima.",Negativo
+450,"El empaque es de cartón reciclado, un gran detalle.",Positivo
+451,Se siente muy pesado y tosco en la mano.,Negativo
+452,La sincronización con la nube es automática.,Positivo
+453,El cristal de la cámara se raya con nada.,Negativo
+454,"Es el producto original, viene con código de registro.",Positivo
+455,No es compatible con el sistema operativo actual.,Negativo
+456,La batería rinde más de lo que dice el fabricante.,Positivo
+457,El plástico tiene bordes filosos que pueden cortar.,Negativo
+458,Muy fácil de desmontar para realizar la limpieza.,Positivo
+459,El envío tardó tres semanas más de lo prometido.,Negativo
+460,"Es muy potente, perfecto para tareas exigentes.",Positivo
+461,Se desconecta del cargador con cualquier movimiento.,Negativo
+462,La pantalla tiene un ángulo de visión excelente.,Positivo
+463,El audio suena enlatado y sin ninguna definición.,Negativo
+464,Superó mis pruebas de estrés sin calentarse.,Positivo
+465,El manual solo viene en un idioma que no entiendo.,Negativo
+466,El diseño es ergonómico y muy cómodo de usar.,Positivo
+467,"Las piezas no encajan bien entre sí, mala fabricación.",Negativo
+468,Una experiencia de usuario muy fluida y rápida.,Positivo
+469,Huele a quemado cada vez que lo exijo un poco.,Negativo
+470,El cable es trenzado y se ve de muy alta calidad.,Positivo
+471,La aplicación consume toda la memoria del teléfono.,Negativo
+472,"Muy satisfecho, es justo lo que necesitaba para casa.",Positivo
+473,El soporte es inestable y vibra con el uso.,Negativo
+474,Los colores de la impresión son vivos y nítidos.,Positivo
+475,Me enviaron una versión inferior a la que pagué.,Negativo
+476,"Es muy silencioso, ideal para trabajar de noche.",Positivo
+477,El sensor táctil falla mucho cuando hay humedad.,Negativo
+478,"Una joya de la ingeniería, muy bien construido.",Positivo
+479,Se traba constantemente al cambiar de función.,Negativo
+480,La entrega fue impecable y muy protegida.,Positivo
+481,El conector tiene holgura y hace falso contacto.,Negativo
+482,"Muy versátil, se adapta a cualquier situación.",Positivo
+483,La pintura se saltó al primer golpe suave.,Negativo
+484,La relación calidad-precio es de lo mejor.,Positivo
+485,"El wifi no tiene nada de alcance, es frustrante.",Negativo
+486,Los accesorios que trae son de primera categoría.,Positivo
+487,Se nota que los materiales son de baja calidad.,Negativo
+488,La configuración inicial fue pan comido.,Positivo
+489,Faltaban componentes básicos dentro de la caja.,Negativo
+490,El brillo de la pantalla es perfecto para exteriores.,Positivo
+491,El motor hace un ruido extraño desde el primer día.,Negativo
+492,"Muy ligero, no pesa nada en la mochila.",Positivo
+493,La goma de los botones se está empezando a soltar.,Negativo
+494,"Excelente compra, lo recomiendo al cien por cien.",Positivo
+495,El software viene con muchos errores de traducción.,Negativo
+496,La respuesta de los botones es firme y precisa.,Positivo
+497,Se calienta excesivamente al cargar la batería.,Negativo
+498,"Es muy estético, queda genial en cualquier lugar.",Positivo
+499,"No vale lo que cuesta, una decepción total.",Negativo
+500,El diseño ergonómico reduce mucho el cansancio.,Positivo
+501,Se siente como un juguete de plástico barato.,Negativo
+502,La batería carga de 0 a 100 en media hora.,Positivo
+503,"El software es una pesadilla, lleno de errores.",Negativo
+504,"Es muy robusto, se nota que durará años.",Positivo
+505,"El envío fue nefasto, la caja venía aplastada.",Negativo
+506,La pantalla tiene unos colores muy naturales.,Positivo
+507,El ventilador no deja de hacer un chirrido.,Negativo
+508,"Superó mis expectativas iniciales, gran calidad.",Positivo
+509,No tiene la potencia que prometen los videos.,Negativo
+510,Muy ligero y cómodo para usar todo el día.,Positivo
+511,Se calienta tanto que huele a electrónica quemada.,Negativo
+512,La caja venía con un precinto de seguridad extra.,Positivo
+513,El soporte técnico me ignoró por dos semanas.,Negativo
+514,Es el mejor periférico que he tenido nunca.,Positivo
+515,Las teclas se borraron con solo un mes de uso.,Negativo
+516,El manual está muy bien explicado y con dibujos.,Positivo
+517,El brillo automático de la pantalla no funciona.,Negativo
+518,"Es muy silencioso, ni te enteras de que está ahí.",Positivo
+519,Los materiales se sienten pegajosos al tacto.,Negativo
+520,La cámara enfoca perfectamente en movimiento.,Positivo
+521,El cable es tan rígido que es difícil de acomodar.,Negativo
+522,Una relación calidad-precio imbatible hoy en día.,Positivo
+523,Faltaban dos gomas de la base en el paquete.,Negativo
+524,La conexión es estable incluso a través de paredes.,Positivo
+525,El sonido se corta cada vez que muevo el conector.,Negativo
+526,"Muy versátil, lo uso tanto en casa como en el trabajo.",Positivo
+527,El pegamento de la estructura se está soltando.,Negativo
+528,El empaque es ecológico y muy fácil de abrir.,Positivo
+529,La batería se descarga un 20% durante la noche.,Negativo
+530,"Los acabados son de metal pulido, muy premium.",Positivo
+531,El sensor de movimiento se activa sin motivo.,Negativo
+532,"Es muy intuitivo, configurado en dos minutos.",Positivo
+533,La caja llegó abierta y sin el manual.,Negativo
+534,"Una maravilla, diseño y potencia en uno solo.",Positivo
+535,Se raya con solo pasarle una servilleta de papel.,Negativo
+536,Muy satisfecho con la rapidez de la entrega.,Positivo
+537,El bluetooth da interferencias con otros equipos.,Negativo
+538,La resolución de la pantalla es simplemente brutal.,Positivo
+539,Es una copia china de muy baja fidelidad.,Negativo
+540,Los accesorios incluidos son de muy buena calidad.,Positivo
+541,El software ocupa demasiado espacio en memoria.,Negativo
+542,El agarre es antideslizante y muy seguro.,Positivo
+543,Se rompió la pestaña de cierre al primer intento.,Negativo
+544,"Un 10 rotundo, no le encuentro ningún fallo.",Positivo
+545,La pintura se está descascarando en las esquinas.,Negativo
+546,"El audio es cristalino, sin ruidos de fondo.",Positivo
+547,"No es compatible con versiones anteriores, ojo.",Negativo
+548,Muy recomendable para quien busque eficiencia.,Positivo
+549,"Me siento decepcionado, esperaba algo mucho mejor.",Negativo
+550,El soporte técnico respondió en menos de una hora.,Positivo
+551,La aplicación se cierra sola al intentar guardar.,Negativo
+552,Los materiales son de acero inoxidable real.,Positivo
+553,"Se siente muy frágil, como si se fuera a quebrar.",Negativo
+554,La duración de la batería es simplemente brutal.,Positivo
+555,"El envío fue un desastre, llegó con un mes de retraso.",Negativo
+556,"Es muy intuitivo, no hace falta leer las instrucciones.",Positivo
+557,"Las piezas de plástico huelen muy mal, a tóxico.",Negativo
+558,La relación calidad-precio es la mejor del mercado.,Positivo
+559,No es para nada lo que muestran en el anuncio.,Negativo
+560,El diseño es minimalista y muy elegante.,Positivo
+561,Se calienta tanto que es imposible tenerlo en la mano.,Negativo
+562,El sonido es envolvente y con bajos potentes.,Positivo
+563,"El manual de usuario es incomprensible, mala traducción.",Negativo
+564,"Muy ligero, ideal para llevarlo en cualquier bolso.",Positivo
+565,Los botones se sienten sueltos y de mala calidad.,Negativo
+566,Llegó perfectamente embalado y con sellos originales.,Positivo
+567,No reconoce el cable de carga original.,Negativo
+568,"Superó mis expectativas por mucho, una maravilla.",Positivo
+569,El servicio de postventa es grosero y no ayuda.,Negativo
+570,La pantalla tiene una resolución y brillo increíbles.,Positivo
+571,Se raya con solo pasarle una gamuza suave.,Negativo
+572,Es el complemento perfecto para mi oficina.,Positivo
+573,La conexión inalámbrica es muy inestable.,Negativo
+574,"Muy resistente a los golpes, ya se me cayó una vez.",Positivo
+575,Faltaban tornillos esenciales para el montaje.,Negativo
+576,El software es muy fluido y fácil de configurar.,Positivo
+577,La cámara frontal toma fotos muy borrosas.,Negativo
+578,"Me encanta el color, es exactamente como la foto.",Positivo
+579,Se queda congelado si abres más de tres apps.,Negativo
+580,"La caja de presentación es de lujo, muy bonita.",Positivo
+581,"El cable es ridículamente corto, no llega a la mesa.",Negativo
+582,"Es una inversión segura, no te vas a arrepentir.",Positivo
+583,Me mandaron un producto usado y con rayones.,Negativo
+584,La suela tiene un agarre fantástico en seco y mojado.,Positivo
+585,El brillo mínimo de la pantalla sigue siendo muy alto.,Negativo
+586,"Muy versátil, sirve para mil cosas diferentes.",Positivo
+587,El pegamento de los bordes se está saliendo.,Negativo
+588,"Es muy silencioso, perfecto para usar de noche.",Positivo
+589,El wifi pierde señal a los dos metros de distancia.,Negativo
+590,El tacto del material es suave y premium.,Positivo
+591,"No incluye las pilas, aunque la caja dice que sí.",Negativo
+592,"Muy satisfecho con la compra, llegó muy rápido.",Positivo
+593,El sensor de huellas funciona cuando quiere.,Negativo
+594,Es muy potente para el tamaño tan compacto que tiene.,Positivo
+595,El ventilador suena como una turbina de avión.,Negativo
+596,La integración con la nube es inmediata y fácil.,Positivo
+597,Los acabados son toscos y mal terminados.,Negativo
+598,"Un producto redondo, lo volvería a comprar mañana.",Positivo
+599,"Una pérdida de dinero, hay opciones mejores y baratas.",Negativo
