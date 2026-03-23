@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Zimmermann</h1>
-<h3 align="center">Estudiante de licenciatura en ciencia de datos. Siglo 21 - Obteniendo experiencia en el mundo de los datos y cómo obtener la información necesaria de ellos para luego presentarla.</h3>
+<h3 align="center">Estudiante de licenciatura en ciencia de datos. Siglo 21 - Aprendiendo y adquiriendo experiencia en el mundo de los datos para obtener información necesaria de ellos y luego presentarla.</h3>
 
 - 📫 Mi contacto: **fer.zim09@gmail.com**
 
