@@ -1,1 +1,2 @@
-
+Ejercicio practico para aplicar la teoria de SVM. se crean datos, luego se visualizan, se aplica el modelo de SVM para realizar una clasificacion, y por ultimo
+se realiza una prediccion con un nuevo dato de entrada. 
