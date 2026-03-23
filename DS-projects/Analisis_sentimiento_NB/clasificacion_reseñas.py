@@ -5,12 +5,12 @@
 import pandas as pd
 
 #Se toma el excel
-#df = pd.read_excel('C:/Users/ferna/Desktop/reseñas.xlsx')
+#df = pd.read_excel('C:/Users/1/Desktop/reseñas.xlsx')
 #Se convierte el excel en csv
-#df_1 = df.to_csv('C:/Users/ferna/Desktop/reseñas.csv')
+#df_1 = df.to_csv('C:/Users/1/Desktop/reseñas.csv')
 
 #Se lee el csv
-df = pd.read_csv('C:/Users/ferna/Desktop/reseñas.csv')
+df = pd.read_csv('C:/Users/1/Desktop/reseñas.csv')
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
