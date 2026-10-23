@@ -2,7 +2,6 @@ name: Recolector Trafico Bariloche
 
 on:
   repository_dispatch:
-    types: [ejecutar_recoleccion]
   workflow_dispatch:
 
 permissions:
