@@ -5,36 +5,16 @@ on:
     types: [ejecutar_recoleccion_clima]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   recolectar:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     defaults:
       run:
         working-directory: ./DS-projects/recolector-clima
 
-    steps:
-      - name: Descargar repositorio
-        uses: actions/checkout@v4
-
-      - name: Configurar Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Instalar dependencias
-        run: pip install -r requirements.txt
-
-      - name: Ejecutar script de clima
-        run: python recolector_wx.py
-
-      - name: Guardar cambios y subir al repo
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.csv
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: nuevo registro de clima [skip ci]" && git push)
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
