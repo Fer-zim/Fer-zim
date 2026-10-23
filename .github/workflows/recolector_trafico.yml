@@ -30,9 +30,10 @@ jobs:
           TOMTOM_API_KEY: ${{ secrets.TOMTOM_API_KEY }}
         run: python recolector_trafico.py
 
-      - name: Guardar CSV en el repositorio
+- name: Guardar CSV en el repositorio
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add datos_trafico_bariloche.csv
+          git add .
+          git status
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update trafico [skip ci]" && git push)
