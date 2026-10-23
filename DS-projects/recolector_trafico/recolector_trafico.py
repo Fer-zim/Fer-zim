@@ -1,5 +1,6 @@
 import requests
 import os
+import time
 import pandas as pd
 from datetime import datetime
 
@@ -80,6 +81,7 @@ def consultar_tramo(nombre:str, sentido:str, origen:tuple, destino:tuple, api_ke
 
     try:
         resp = requests.get(url, params=params, timeout=10)
+        time.sleep(1)  # Pausa obligatoria para respetar el limite de TomTom
         resp.raise_for_status()
         summary = resp.json()["routes"][0]["summary"]
 
