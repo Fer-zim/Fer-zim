@@ -145,6 +145,7 @@ if registros:
         "indice_congestion"
     ]
     df_nuevo = df_nuevo[columnas]
+    CSV_FILE = "datos_trafico_bariloche.csv"
     archivo_existe = os.path.exists(CSV_FILE)
-    df_nuevo.to_csv(CSV_FILE, mode= "a", index=False, header=not archivo_existe)
-    print(f"registros guardados")
+    df_nuevo.to_csv(CSV_FILE, mode="a", index=False, header=not archivo_existe)
+    print("registros guardados")
