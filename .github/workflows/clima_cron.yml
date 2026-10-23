@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./DS-projects/recolector-clima
+        working-directory: ./DS-projects/recolector_wx
 
     steps:
       - name: Descargar repositorio
