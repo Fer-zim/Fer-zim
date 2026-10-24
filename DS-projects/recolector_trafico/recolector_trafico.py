@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 
 CSV_FILE = "datos_trafico_bariloche.csv"
-API_KEY = os.environ.get("TOMTOM_API_KEY", "YQXoHyXYemCxSoIkyS6XC2RuoXSVpNrz")
+API_KEY = os.environ.get("TOMTOM_API_KEY")
 
 tramos = {
     "Bustillo (km 1 a 8)":{
