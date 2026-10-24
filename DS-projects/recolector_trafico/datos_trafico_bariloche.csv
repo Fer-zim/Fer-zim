@@ -615,3 +615,5 @@ timestamp_utc,arteria,sentido,distancia_km,tiempo_real_min,tiempo_base_min,demor
 2026-10-24 13:00:38,2do sombra,hacia arriba),0.31,0.7,0.7,0.0,27.5,1.0
 2026-10-24 13:00:40,Camino aeropuerto,hacia aeropuerto,5.37,4.9,4.9,0.0,65.9,1.0
 2026-10-24 13:00:41,Camino aeropuerto,hacia ciudad),5.37,4.8,4.8,0.0,66.8,1.0
+2026-10-24 13:20:21,Bustillo (km 1 a 8),hacia el centro,9.44,15.5,15.5,0.0,36.5,1.0
+2026-10-24 13:20:30,Esandi,hacia rotonda ñireco),5.58,9.7,9.7,0.0,34.4,1.0
