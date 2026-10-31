@@ -7785,3 +7785,17 @@ timestamp_utc,arteria,sentido,distancia_km,tiempo_real_min,tiempo_base_min,demor
 2026-10-31 16:20:33,2do sombra,hacia arriba),0.31,0.7,0.7,0.0,26.2,1.0
 2026-10-31 16:20:34,Camino aeropuerto,hacia aeropuerto,5.37,4.9,4.9,0.0,65.2,1.0
 2026-10-31 16:20:35,Camino aeropuerto,hacia ciudad),5.37,4.9,4.9,0.0,66.1,1.0
+2026-10-31 16:40:20,Bustillo (km 1 a 8),hacia el centro,9.44,15.9,15.9,0.0,35.7,1.0
+2026-10-31 16:40:21,Bustillo (km 1 a 8),hacia km 8,8.99,16.4,16.4,0.0,33.0,1.0
+2026-10-31 16:40:23,Pioneros (km 1 a 8),hacia el centro,8.43,12.6,12.6,0.0,40.3,1.0
+2026-10-31 16:40:24,Pioneros (km 1 a 8),hacia km 8,9.44,16.3,16.3,0.0,34.8,1.0
+2026-10-31 16:40:25,Onelli,hacia el alto,1.38,6.3,6.3,0.0,13.2,1.0
+2026-10-31 16:40:26,Elordi,hacia el centro,1.48,5.0,5.0,0.0,17.7,1.0
+2026-10-31 16:40:27,Av 12 de octubre,hacia E,2.45,5.2,5.2,0.0,28.4,1.0
+2026-10-31 16:40:28,Av 12 de octubre,hacia W (hasta rotonda Ñireco),2.19,3.4,3.4,0.0,38.7,1.0
+2026-10-31 16:40:29,Esandi,hacia ruta,3.57,4.5,4.5,0.0,47.4,1.0
+2026-10-31 16:40:30,Esandi,hacia rotonda ñireco),5.58,9.8,9.8,0.0,34.3,1.0
+2026-10-31 16:40:31,2do sombra,hacia abajo,0.31,0.7,0.7,0.0,27.5,1.0
+2026-10-31 16:40:32,2do sombra,hacia arriba),0.31,0.7,0.7,0.0,26.2,1.0
+2026-10-31 16:40:33,Camino aeropuerto,hacia aeropuerto,5.37,4.9,4.9,0.0,65.2,1.0
+2026-10-31 16:40:34,Camino aeropuerto,hacia ciudad),5.37,4.9,4.9,0.0,66.1,1.0
