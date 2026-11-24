@@ -25553,3 +25553,13 @@ timestamp_utc,arteria,sentido,distancia_km,tiempo_real_min,tiempo_base_min,demor
 2026-11-23 01:40:34,Camino aeropuerto,hacia aeropuerto,5.37,5.2,5.2,0.0,61.9,1.0
 2026-11-23 01:40:35,Camino aeropuerto,hacia ciudad),5.37,5.1,5.1,0.0,63.1,1.0
 2026-11-24 03:00:41,Camino aeropuerto,hacia aeropuerto,5.37,5.0,5.0,0.0,63.7,1.0
+2026-11-24 09:00:33,Pioneros (km 1 a 8),hacia km 8,8.78,12.8,12.8,0.0,41.1,1.0
+2026-11-24 09:00:35,Onelli,hacia el alto,1.38,3.8,3.8,0.0,21.6,1.0
+2026-11-24 09:00:36,Elordi,hacia el centro,1.48,4.1,4.1,0.0,21.5,1.0
+2026-11-24 09:00:37,Av 12 de octubre,hacia E,2.45,4.5,4.5,0.0,32.7,1.0
+2026-11-24 09:00:39,Esandi,hacia ruta,3.57,4.4,4.4,0.0,48.3,1.0
+2026-11-24 09:00:40,Esandi,hacia rotonda ñireco),5.58,9.6,9.6,0.0,34.7,1.0
+2026-11-24 09:00:42,2do sombra,hacia abajo,0.31,0.6,0.6,0.0,29.8,1.0
+2026-11-24 09:00:43,2do sombra,hacia arriba),0.31,0.6,0.6,0.0,30.6,1.0
+2026-11-24 09:00:44,Camino aeropuerto,hacia aeropuerto,5.37,5.1,5.1,0.0,63.1,1.0
+2026-11-24 09:00:45,Camino aeropuerto,hacia ciudad),5.37,5.0,5.0,0.0,64.2,1.0
